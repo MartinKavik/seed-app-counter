@@ -1,3 +1,9 @@
+# Counter
+
+- https://seed-app-counter.netlify.app/
+
+---
+
 # Seed Quickstart
 
 > Basic Rust-only template for your new Seed app.
@@ -46,7 +52,7 @@
 ## 5. Prepare your project for deploy
 
 1. Run `cargo make verify` in your terminal to format and lint the code.
-1. Run `cargo build_release`.
+1. Run `cargo make build_release`.
 1. Upload `index.html` and `pkg` into your server's public folder.
 
 ## Other Seed quickstarts and projects
